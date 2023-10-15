@@ -1,0 +1,15 @@
+body{
+    background-image: url(./img/AficionVasco.jpg);
+    
+}
+
+.config{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    text-shadow: 3px 0 white, 0 3px white, 1px 0 black, 0 -1px black;;
+}
